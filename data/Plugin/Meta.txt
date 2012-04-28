@@ -1,0 +1,6 @@
+The Meta plugin
+meta-by: rael
+meta-type: test
+
+This is a test of the Meta plugin. $Plugin::Meta::type should be populated with the value "test" and 
+$Plugin::Meta::by as "rael"..

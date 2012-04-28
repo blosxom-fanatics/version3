@@ -1,0 +1,9 @@
+<p style="background: #dddddd; color: blue;">
+<a name="$fn"><b>$title</b></a>
+<br />
+<i>[ book: $Plugin::Meta::book; Page $Plugin::Meta::page ]</i>
+<br />
+$body
+<br />
+<i>$da $mo $yr | <a href="$url$path">$path</a> | <a href="$url$path$fn.$default_flavour">permanent link</a></i>
+</p>

@@ -1,0 +1,7 @@
+EntryType: book
+meta-entrytype: book
+meta-book: Eats, Shoots &amp; Leaves
+meta-page: 53
+This entry is different.  The presence of a meta-entrytype tag triggers the EntryType plugin. The entry
+is marked as being of type "book", which causes the entry to be rendered using the entry.book template
+component.

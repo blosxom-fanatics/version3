@@ -1,0 +1,9 @@
+Package
+The current Blosxom 3.0 package consists of:
+<ul>
+<li>The Blosxom module (Blosxom.pm) that may be a) run as a CGI script with about the same effect as running Blosxom 2.0 out of the box, b) subclassed, or c) used as a module, naturally enough.</li>
+<li>A data directory, wherein all entries, flavour components, settings and handler configuration files lie. I've prepopulated this with HTML and RSS templates, some posts (including this one) with which to test Blosxom, and basic settings and handlers files.</li>
+<li>A plugins directory, wherein all plugins live. I've included a couple-three plugins which do little in particular, but provide some idea (until I get to the full documentation) of how plugins work.</li>
+<li>A state directory, wherein to keep an state information used by your plugins.</li>
+</ul>
+Blosxom 3.0 will be distributed, eventually, with such a layout (subject to change), some goodly sprinkling of flavours or themes (designers, please do volunteer), a nice collection of modules that'll work well cross-platform and don't require anything more than themselves, and on-board documentation in the form of blog posts.

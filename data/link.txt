@@ -1,0 +1,2 @@
+Symlink
+This post is a symbolic link... or is it?

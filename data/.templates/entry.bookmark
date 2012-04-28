@@ -1,0 +1,3 @@
+<p style="border: 1px dashed #A69482; padding: 5px; margin: 10px;">
+<a name="$fn"><b><a href="$Plugin::Meta::url">$title</a></b> - $body</a>
+</p>

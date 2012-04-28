@@ -1,0 +1,7 @@
+
+
+  <item>
+   <title>$title</title>
+   <link>$url$path$fn.$default_flavour</link>
+   <description>$body</description>
+  </item>

@@ -1,0 +1,6 @@
+EntryType: bookmark to x180
+meta-entrytype: bookmark
+meta-url: http://www.x180.net/
+This entry is also different.  The presence of a meta-entrytype tag triggers the EntryType plugin. The entry
+is marked as being of type "bookmark", which causes the entry to be rendered using the entry.bookmark template
+component.

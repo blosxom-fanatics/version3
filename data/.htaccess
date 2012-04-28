@@ -1,0 +1,9 @@
+AuthUserFile /dev/null
+AuthGroupFile /dev/null
+AuthName "these are not the droids you're looking for..."
+
+AuthType Basic
+
+<Limit GET>
+order deny,allow
+</Limit>

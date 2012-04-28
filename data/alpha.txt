@@ -1,0 +1,3 @@
+Alpha
+Blosxom 3.0 is currently in alpha testing. It should in no way be considered 
+fully-baked, finished, or stable enough to use instead of Blosxom 2.0. It is a heads-up, if you will, of what is to come. It is intended only for mature Blosxom users and plugin developers as a preview and chance to provide feedback and suggestions.

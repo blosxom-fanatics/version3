@@ -1,0 +1,2 @@
+Running
+Blosxom 3.0 should run right out of the box. Unzip, drop somewhere Web-accessible, and visit http://servername/cgi-bin/Blosxom.pm (or appropriate). You may need to change its filename to Blosxom.cgi to have it run on your server. Blosxom works from its local directory and expects to find al the bits and bobs in its package thereabouts.

@@ -1,0 +1,2 @@
+Feedback
+Please direct any feedback to the <a href="http://groups.yahoo.com/group/blosxom/">Blosxom mailing list</a>. I ask that you prefix the subject line of any message pertaining to Blosxom 3.0 with a <code>(3.0)</code> so that others using Blosxom 2.0 can safely ignore any such discussion.

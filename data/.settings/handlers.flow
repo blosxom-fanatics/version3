@@ -1,0 +1,31 @@
+# Blosxom 3.0+1i
+# Flow Handlers (for any flavour)
+# 2004-04-27
+# Rael Dornfest <rael@raelity.org>
+
+Blosxom::parse_request
+Blosxom::find_settings_and_handlers
+Blosxom::handle_settings
+Blosxom::handle_handlers
+Blosxom::get_plugins # blosxom 3 plugins that is
+
+# work with legacy Blosxom 2 plugins ;-)
+#Blosxom::Plugin::Plugin2::run 
+
+Blosxom::find_entries
+Blosxom::sort_entries
+Blosxom::run_entries
+Blosxom::render_response
+Blosxom::output_header
+Blosxom::output_response
+
+# DEBUG: blosxom 3 test plugin running the default run() method
+#Blosxom::Plugin::Test::run
+
+# DEBUG: blosxom 3 test plugin running a specific method
+#Blosxom::Plugin::Test::specific 
+
+# DEBUG: dumps out a nice tree view of $blosxom
+#Blosxom::dump 
+
+# This is a comment.
